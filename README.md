@@ -1,4 +1,4 @@
-# README: MLOps
+# README: MLOps-M2-SISE
 
 ## Table of Contents
 
